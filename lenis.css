@@ -1,0 +1,14 @@
+
+ul {
+    list-style: none;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.navbar-toggler {
+    align-content: flex-end ;
+}
