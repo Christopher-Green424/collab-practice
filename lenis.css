@@ -1,0 +1,23 @@
+
+ul {
+    list-style: none;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.navbar-toggler {
+    align-content: flex-end ;
+}
+#hero-image {
+    background-image: url("/images/lenisss.jpeg");
+    width: 100%;
+  height: 500px;
+    background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  
+}
