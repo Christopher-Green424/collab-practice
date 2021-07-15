@@ -15,7 +15,7 @@ ul {
 #hero-image {
     background-image: url("/images/lenisss.jpeg");
     width: 100%;
-  height: 500px;
+  height: 600px;
     background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
